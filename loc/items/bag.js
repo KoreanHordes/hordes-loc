@@ -11,6 +11,7 @@ export default [
       es: 'Esta bolsa está hecha de una tela delicada. Las bolsas como esta a menudo son propiedad de personas comunes para llevar sus pertenencias.',
       vi: 'Túi này được làm từ một loại vải tinh tế. Những chiếc túi như thế này thường thuộc sở hữu của những người bình thường để mang đồ đạc của họ',
       nl: 'Deze buidel is gemaakt van een fijne stof. Buidels zoals deze zijn vaak eigendom van gewone mensen voor het dragen van hun bezittingen.',
+      ko: '이 가방은 푹신한 천으로 만들어졌습니다. 이 가방은 주로 사람들이 그들의 물품들을 가지고 다닐때 쓰입니다.',
       it: 'Questo zaino è stato fabbricato con un tessuto fragile. Zaini come questi spesso vengono utilizzati dalle persone comuni per trasportare i loro averi.',
       ro: 'Acest săculeț este făcut dintr-un material delicat. Astfel de săculeți sunt des folosiți de oameni simpli pentru a-și căra bunurile.',
       zh: '這個袋子是用精巧的織法製作的，這種類型的袋子常常出現在平民的身邊以便於他們攜帶物品。'
@@ -29,6 +30,7 @@ export default [
       es: 'Este saco está hecho de telas resistentes para sostener más equipo que una bolsa de lino.',
       vi: 'Bao tải xấu xí này được chế tạo từ các loại vải chắc chắn để chứa nhiều thiết bị hơn túi vải lanh.',
       nl: 'Deze rugzak is gehandhaafd van stevige stoffen om meer uitrusting te dragen dan een "Linen Pouch".',
+      ko: '이 가방은 "linen pouch" 보다 더 질긴 천으로 만들어졌습니다, 덕분에 더 많은 양의 물품을 운발할수 있습니다.',
       it: 'Questo zaino robusto è stato realizzato con un tessuto resistente per contenere più oggetti rispetto ad un "Linen Pouch".',
       ro: 'Acest sac aspru este creat din materiale robuste pentru a susține mai mult echipament decât "Linen Pouch".',
       zh: '這個粗糙的背包是由堅韌的織物製作的以保存比麻布袋更多的物品。'
@@ -47,6 +49,7 @@ export default [
       es: 'Este saco robusto está hecho a base de pieles de monstruo y permite un inventario respetable.',
       vi: 'Chiếc túi chắc chắn này được làm từ da quái vật và là một hành trang đáng trân trọng.',
       nl: 'Deze krachtige zak is gemaakt van monsterhuid en gunt een fatsoenlijke inventaris.',
+      ko: '이 가방은 몬스터의 가죽으로 만들어진 굉장히 많은 양의 물건을 수용할수 있는 가방입니다.',
       it: 'Questo zaino resistente è stato fabbricato con la pelle dei mostri e consente un inventario rispettabile.',
       ro: 'Acest sac robust este făcut din piele de monstru și permite posesia unui inventar respectabil.',
       zh: '這個堅實的背包是由獸皮製作而成以保存大量物品。'
