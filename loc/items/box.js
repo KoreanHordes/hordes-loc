@@ -13,6 +13,7 @@ export default [
       it: 'Spedito dalle regioni inesplorate di Faivel. Il contenuto di questa gabbia non può essere ispezionato fino all\'apertura.',
       ro: 'Expediată din regiunile neexplorate din Faivel. Conținuturile acestei cuști nu pot fi inspectate până la deschidere.',
       nl: 'Verzonden vanuit de onbezochte gebieden van Faivel. De inhoud van deze kooi kan niet worden geïnspecteerd tot het geopened is.',
+      ko: '바다 건너에서 온 이 신기한 상자는 정확한 조사를 하기전까지 무슨 내용물이 있는지 알지 못합니다.',
       zh: '來自Faivel的未開發區域，在打開之前你永遠不會知道它裡面裝了些什麼。',
       tr: 'Faivel\'in keşfedilmemiş bölgelerinden kargolandı. Bu kafesin içindeki açılana kadar gözlenemez.'
     }
@@ -23,7 +24,8 @@ export default [
       en: 'A magical blue elixir potion which grants your account useful extra features.',
       ru: 'Волшебное зелье из синего эликсира, которое дарит вашему аккаунту полезные возможности.',
       fr: 'Une potion d\'élixir bleue magique qui accorde à votre compte des fonctionnalités supplémentaires utiles.',
-      tr: 'Hesabına fazladan kullanışlı özellikler ekleyen sihirli mavi bir iksir.'
+      tr: 'Hesabına fazladan kullanışlı özellikler ekleyen sihirli mavi bir iksir.',
+      ko: '마법의 파란 엘릭서 포션은 당신의 계정에 많은 추가 기능등을 제공합니다.'
     }
   }
 ]
