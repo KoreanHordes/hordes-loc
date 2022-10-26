@@ -59,7 +59,7 @@ export default {
     tr: 'Klan Oluştur',
     pt: 'Criar Clã',
     nl: 'Creërenclan',
-    ko: '클랜 만들기',
+    ko: '클랜 생성 ',
     ro: 'Creează un Clan',
     zh: '創建公會',
     hu: 'Klán Létrehozása',
@@ -107,7 +107,7 @@ export default {
     tr: 'Klan Tag\'ı',
     pt: 'Tag do Clã',
     nl: 'Clan Tag',
-    ko: '클랜 수식어',
+    ko: '클랜 태그',
     ro: 'Clan Tag',
     zh: '公會標籤',
     hu: 'Klán Címkéje',
@@ -131,7 +131,7 @@ export default {
     tr: 'Oluştur',
     pt: 'Criar',
     nl: 'Creëren',
-    ko: '만들기',
+    ko: '',
     ro: 'Creează',
     zh: '創建',
     hu: 'Létrehozás',
@@ -175,7 +175,7 @@ export default {
     en: 'Application',
     fr: 'Postuler',
     tr: 'Başvuru',
-    ko: '수락',
+    ko: '신청',
     zh: '申請',
     pt: 'Inscrições'
   },
@@ -220,7 +220,7 @@ export default {
     en: 'Applied to clan',
     fr: 'Candidature envoyé',
     tr: 'Klana başvuruldu',
-    ko: '클랜 초대에 수락하셨습니다',
+    ko: '클랜 가입을 신청하였습니다.',
     zh: '已申請公會',
     pt: 'Aplicar ao clã'
   },
@@ -236,7 +236,7 @@ export default {
       en: ' invited',
       fr: ' invité',
       tr: ' davet edildi',
-      ko: ' 초대함',
+      ko: ' 초대',
       zh: ' 已邀請',
       pt: ' Convidado'
     }
